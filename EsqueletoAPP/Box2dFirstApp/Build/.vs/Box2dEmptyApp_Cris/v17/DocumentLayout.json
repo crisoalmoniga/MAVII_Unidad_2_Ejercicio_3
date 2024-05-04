@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C674D7-9E95-4F51-966C-1A0545981942}|Box2dEmptyApp.vcxproj|D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp",
+              "RelativeDocumentMoniker": "..\\Src\\Game.cpp",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp",
+              "RelativeToolTip": "..\\Src\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T03:48:51.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Box2dEmptyApp.cpp",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
+              "RelativeDocumentMoniker": "..\\Src\\Box2dEmptyApp.cpp",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
+              "RelativeToolTip": "..\\Src\\Box2dEmptyApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T03:48:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SFMLRenderer.h",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h",
+              "RelativeDocumentMoniker": "..\\Src\\SFMLRenderer.h",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h",
+              "RelativeToolTip": "..\\Src\\SFMLRenderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T03:47:40.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h",
+              "RelativeDocumentMoniker": "..\\Src\\Game.h",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h",
+              "RelativeToolTip": "..\\Src\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T03:47:27.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SFMLRenderer.cpp",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
+              "RelativeDocumentMoniker": "..\\Src\\SFMLRenderer.cpp",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
+              "RelativeToolTip": "..\\Src\\SFMLRenderer.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T03:49:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box2DHelper.h",
+              "DocumentMoniker": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h",
+              "RelativeDocumentMoniker": "..\\Src\\Box2DHelper.h",
+              "ToolTip": "D:\\Universidad - Cris\\Videojuegos\\Universidad del Litoral\\MAV2\\Unidad 2\\MAVII_Unidad_2_Ejercicio_3\\MAVII_Unidad_2_Ejercicio_3\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h",
+              "RelativeToolTip": "..\\Src\\Box2DHelper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T03:47:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SFMLRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAswJQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T17:41:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SFMLRenderer.h",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\SFMLRenderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T17:40:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box2DHelper.h",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2DHelper.h",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T17:29:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Box2dEmptyApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Box2dEmptyApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T17:26:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T01:56:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h",
+              "ToolTip": "C:\\Users\\Criso\\Downloads\\EsqueletoAPP (1)\\EsqueletoAPP\\Box2dFirstApp\\Src\\Game.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-03T01:56:56.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
